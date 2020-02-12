@@ -1,0 +1,18 @@
+{
+    "local":{
+        "host":"localhost",
+        "user":"root",
+        "password":"Pa$$w0rd",
+        "db":"FAM",
+        "charset":"utf8mb4",
+        "cursorclass":"pymysql.cursors.DictCursor"
+    },
+    "cloud1":{
+        "host":"",
+        "user":"",
+        "password":"",
+        "db":"",
+        "charset":"",
+        "cursorclass":""
+    }
+}
