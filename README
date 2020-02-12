@@ -1,0 +1,3 @@
+#Python Workout Database
+
+These scripts were created to transfer information from excel sheets to a database. A normalized database was created using an SQL script and then a custom algorithm was created to read the files from the excel sheets and transfer to the normalized database.
